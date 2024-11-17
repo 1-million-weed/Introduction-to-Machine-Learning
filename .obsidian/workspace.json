@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c8268a63aedc5df3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f5cdd9077c875a47",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Lectures/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de902c8ddec37c2",
+  "active": "53ea429dffa74c2e",
   "lastOpenFiles": [
     "Introduction-to-Machine-Learning",
     "Welcome.md",
