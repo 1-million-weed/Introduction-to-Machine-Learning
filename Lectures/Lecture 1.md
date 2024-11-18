@@ -1,4 +1,11 @@
-> [!note] Look at lecture slides for general info about the course. Very clear and structured
+---
+tags:
+  - Marinus
+  - Lectures
+  - _FirstPass
+---
+
+>[!note] Look at lecture slides for general info about the course. Very clear and structured
 
 ## What you need for AGI 
 
