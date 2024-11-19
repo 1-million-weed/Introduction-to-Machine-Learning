@@ -1,0 +1,1 @@
+acquiring new knowledge and understanding
