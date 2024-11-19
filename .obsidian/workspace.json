@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 1.md",
+                "file": "Lectures/Lecture 2 Supervised Learning I - Linear Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1"
+              "title": "Lecture 2 Supervised Learning I - Linear Models"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 1.md",
+                "file": "Lectures/Lecture 2 Supervised Learning I - Linear Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture 1"
+              "title": "Backlinks for Lecture 2 Supervised Learning I - Linear Models"
             }
           },
           {
@@ -139,13 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1.md"
+                "file": "Lectures/Lecture 2 Supervised Learning I - Linear Models.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 1"
+              "title": "Outline of Lecture 2 Supervised Learning I - Linear Models"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,11 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53ea429dffa74c2e",
+  "active": "709bc7cc8ea6f14d",
   "lastOpenFiles": [
+    "Lectures/Lecture 1.md",
+    "Lectures/Lecture 2 Supervised Learning I - Linear Models.md",
+    "Lectures/Lecture 2 Supervised Linear Models.md",
+    "Definitions/Training data.md",
+    "Definitions/Regression.md",
+    "Definitions/Parameters, weights.md",
+    "Definitions/Multi task learning.md",
+    "Definitions/Model.md",
+    "Definitions/Loss function.md",
+    "Definitions/Learning.md",
+    "Definitions/Generalization.md",
+    "Definitions/Classification.md",
+    "Definitions/Adaptivity & adaptability.md",
+    "Definitions",
+    "Handouts/math4ML-handout.pdf",
+    "Handouts",
     "Introduction-to-Machine-Learning",
     "Welcome.md",
-    "Lectures/Lecture 1.md",
     "Untitled",
     "Lectures"
   ]
