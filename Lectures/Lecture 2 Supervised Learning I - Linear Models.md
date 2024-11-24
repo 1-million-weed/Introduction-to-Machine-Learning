@@ -1,18 +1,24 @@
 ---
 tags:
   - Marinus
+  - Lectures
+  - Matthijs
+  - _FirstPass
 ---
 
-karolina yaps
+
+{karolina yaps}
+
 
 # Linear regression
-
-- dataset from N pairs
-- row vectors 
-- group rows to form BIG X matrix. 
-- Matrix are capitals and vectors are lowercase
-- number of weights is d + 1
-- idea is to set the weights to make the line of best fit fit the data
+---
+## Representing the dataset
+- The dataset is made up from $N$ pairs of **observations** and **responses** (inputs and outputs)
+- The response is a row vector of $N$ scalars 
+- We can group together the observations throughout the dataset in a matrix $$X \in \R^{n X d}$$ #_Err_Design 
+	- Matrix are referred to with capital letters and vectors with lowercase
+- The total number of parameters/weights is $P = d + 1$, where d = dim(x).
+>[!info] The idea is to set the weights to make the line of best fit fit the data
 ## closed form solution
 
 - lin reg uses MSE loss 
