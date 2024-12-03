@@ -1,3 +1,10 @@
+---
+tags:
+  - Marinus
+  - _FirstPass
+  - Lectures
+---
+
 # Kernels
 - kernel can transform the SVM from a linear classifier into a non-linear model. 
 	- done by changing the shape of the decision boundary
