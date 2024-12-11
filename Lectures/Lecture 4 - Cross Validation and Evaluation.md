@@ -179,6 +179,9 @@ mimimimimimimim
 	- your model is not generalisable
 ## Typical Train/Val/Test Ratios
 
+> #_SecondPass for assignment 2 we need to write about dataset splits. i generated some code from chatGPT to extract all that info out of the lecture slides. here is nice condensed summary on splitting data.
+> [[Dataset Splitting]]
+
 - easy way to solve only using the same train and test data from a dataset when split, trained, and evaluated. 
 	- train the model in different variations of splitting the data to find iterations where the train and test set are the most independent
 
