@@ -3,6 +3,8 @@ tags:
   - _FirstPass
   - Marinus
   - Lectures
+  - _SecondPass
+DateReviewed1: 2024-12-12
 ---
 
 # Regularization
