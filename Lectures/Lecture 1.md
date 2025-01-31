@@ -99,3 +99,31 @@ A representation of the relative values of learning paradigms {in eatable form, 
 - [[Multi task learning]]
 
 
+# Challenges in Machine Learning
+
+A canvas with this info can be found here: [[Exam Prep.canvas|Exam Prep]]
+Or, here is a list of the challenges:
+1. [[Quality of Data]]
+2. [[Model Misspecification]]
+3. [[Generalisation]]
+4. [[Explainability]]
+5. [[Bias, Safety, Trustworthiness]]
+
+
+# Take Home Messages
+
+- There are three paradigms in Machine Learning:
+	- **Supervised,**
+	- **Unsupervised,**
+	- **and Reinforcement**.
+- **[[Generalisation]]** is the biggest issue/core idea of Machine Learning.
+- Two main tasks: 
+	- **Classification**  
+	- **Regression**
+- Learning is done through an <mark style="background: #CACFD9A6;">optimization problem</mark>.
+- **[[Normalisation]] and pre-processing** of features and labels is very important.
+- **Machine Learning is not magic**; there are many challenges.
+
+
+---
+| Next: [[Lecture 2 Supervised Learning I - Linear Models]] |

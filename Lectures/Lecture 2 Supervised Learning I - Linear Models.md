@@ -5,10 +5,7 @@ tags:
   - Matthijs
   - _FirstPass
 ---
-
-
-{karolina yaps}
-
+{Karolina yaps}
 
 # Linear regression
 ---

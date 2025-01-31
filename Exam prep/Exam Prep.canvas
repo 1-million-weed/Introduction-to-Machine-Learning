@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"8776da882f12e4d1","x":-780,"y":621,"width":2160,"height":599,"type":"group","label":"Challenges in ML"},
+		{"id":"b3af18fb1b1c2f4e","type":"file","file":"Exam prep/Challenges/Explainability.md","x":530,"y":641,"width":400,"height":559},
+		{"id":"c5e98049fec06720","type":"file","file":"Exam prep/Challenges/Quality of Data.md","x":-760,"y":641,"width":400,"height":400},
+		{"id":"fd6c2193b0ff0f68","type":"file","file":"Exam prep/Challenges/Model Misspecification.md","x":-338,"y":641,"width":400,"height":479},
+		{"id":"da23a1fbde5104c2","type":"text","text":"Garbage in, Garbage out","x":-677,"y":1120,"width":234,"height":60},
+		{"id":"ea4c86baa49c0b40","type":"file","file":"Exam prep/Challenges/Generalisation.md","x":113,"y":641,"width":400,"height":439},
+		{"id":"da741c932e63b153","x":960,"y":641,"width":400,"height":559,"type":"file","file":"Exam prep/Challenges/Bias, Safety, Trustworthiness.md"},
+		{"id":"497a50ac9d5bb201","type":"text","text":"Challenges in Machine learning","x":222,"y":320,"width":182,"height":60},
+		{"id":"8275b740e8613fe5","type":"text","text":"Lecture 1","x":251,"y":160,"width":125,"height":60}
+	],
+	"edges":[
+		{"id":"f80b25dc2010178f","fromNode":"8275b740e8613fe5","fromSide":"bottom","toNode":"497a50ac9d5bb201","toSide":"top"},
+		{"id":"0261e2a0cbf6e0e5","fromNode":"497a50ac9d5bb201","fromSide":"bottom","toNode":"c5e98049fec06720","toSide":"top"},
+		{"id":"4e3ed73aeb36248d","fromNode":"c5e98049fec06720","fromSide":"bottom","toNode":"da23a1fbde5104c2","toSide":"top"},
+		{"id":"1867daf0c2abe3ec","fromNode":"497a50ac9d5bb201","fromSide":"bottom","toNode":"fd6c2193b0ff0f68","toSide":"top"},
+		{"id":"fe7fecf790da4a88","fromNode":"497a50ac9d5bb201","fromSide":"bottom","toNode":"ea4c86baa49c0b40","toSide":"top"},
+		{"id":"424fde45a890ad08","fromNode":"497a50ac9d5bb201","fromSide":"bottom","toNode":"b3af18fb1b1c2f4e","toSide":"top"},
+		{"id":"883ae646fdf81cf5","fromNode":"497a50ac9d5bb201","fromSide":"bottom","toNode":"da741c932e63b153","toSide":"top"}
+	]
+}
