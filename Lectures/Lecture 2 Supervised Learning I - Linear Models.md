@@ -12,7 +12,7 @@ tags:
 ## Representing the dataset
 - The dataset is made up from $N$ pairs of **observations** and **responses** (inputs and outputs)
 - The response is a row vector of $N$ scalars 
-- We can group together the observations throughout the dataset in a matrix $X \in \R^{n X d}$ #_Err_Design 
+- We can group together the observations throughout the dataset in a matrix $X \in \mathbb{R}^{n \times d}$
 	- Matrix are referred to with capital letters and vectors with lowercase
 - The basic linear regression model is $f(x)=\hat{y} = ...$ #_Err_Design 
 - The total number of parameters/weights is $P = d + 1$, where d = dimensions of input features
@@ -221,4 +221,4 @@ one vs rest and one vs one
 ## LDA Model/Equations
 ## Questions to think about
 - similar to exam questions
-- 
+-  

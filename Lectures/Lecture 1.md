@@ -10,7 +10,7 @@ tags:
 
 - Practicals are weekly starting week 2
 - **Grade** is determined:
-	- 50% homework x 3
+	- 50% homework x 31
 		- first two are `theory`, last is fully `practical`
 	- 50% exam
 		- 40% multiple choice
